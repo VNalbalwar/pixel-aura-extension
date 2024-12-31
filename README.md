@@ -25,18 +25,6 @@
 
 ---
 
-## ✨ Preview
-
-### Code in Action
-![Code Preview](https://via.placeholder.com/800x400)  
-*(Replace this with your theme screenshot)*
-
-### UI Highlights
-![UI Highlights](https://via.placeholder.com/800x400)  
-*(Replace this with your theme screenshot)*
-
----
-
 ## 💡 Why Pixel Aura?
 
 - It’s not just a theme; it’s *an experience*.
@@ -47,7 +35,7 @@
 
 ## 🛠️ Contributing
 
-Want to make **Pixel Aura** even better? Fork this repo and send over your ideas! Contributions are always welcome.
+Want to make **Pixel Aura** even better? Fork this repository and send over your ideas! Contributions are always welcome.
 
 ---
 
@@ -63,7 +51,9 @@ If you love **Pixel Aura**, don’t forget to:
 
 Got feedback, suggestions, or just want to chat? Reach out to me here:
 - [GitHub](https://github.com/VNalbalwar)
-- [Twitter](https://twitter.com/your-handle)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/viraj-nalbalwar-895365255/)
+- [VirajVerse](https://viraj-verse.vercel.app/)
 
-**Happy Coding !!**
+---
+
+**Happy Coding! 🚀**
