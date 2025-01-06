@@ -134,6 +134,11 @@
 		}
 	  },
 	  {
+		"name": "html decorator",
+		"scope": "text.html.derivative",
+		"settings": { "foreground": "#ffffff" }
+	  },
+	  {
 		"name": "diff",
 		"scope": "meta.diff.header.from-file,meta.diff.header.to-file,punctuation.definition.from-file.diff,punctuation.definition.to-file.diff",
 		"settings": {
@@ -545,7 +550,7 @@
 		"name": "Variables",
 		"scope": "variable",
 		"settings": {
-		  "foreground": "#ff949d"
+		  "foreground": "#88e3ff"
 		}
 	  },
 	  {
