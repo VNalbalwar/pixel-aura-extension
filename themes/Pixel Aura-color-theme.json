@@ -729,14 +729,14 @@
 		"name": "Meta tag",
 		"scope": "meta.tag",
 		"settings": {
-		  "foreground": "#50ffbe"
+		  "foreground": "#ffffff"
 		}
 	  },
 	  {
 		"name": "Strings",
 		"scope": "string",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#b9ffa0"
 		}
 	  },
 	  {
